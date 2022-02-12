@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vlad2021-pro/goit-react-hw-04-hooks-feedback.git/static/css/main.7acaea2f.css",
+    "main.js": "/vlad2021-pro/goit-react-hw-04-hooks-feedback.git/static/js/main.1fcc2295.js",
+    "static/js/787.6b7abe35.chunk.js": "/vlad2021-pro/goit-react-hw-04-hooks-feedback.git/static/js/787.6b7abe35.chunk.js",
+    "index.html": "/vlad2021-pro/goit-react-hw-04-hooks-feedback.git/index.html",
+    "main.7acaea2f.css.map": "/vlad2021-pro/goit-react-hw-04-hooks-feedback.git/static/css/main.7acaea2f.css.map",
+    "main.1fcc2295.js.map": "/vlad2021-pro/goit-react-hw-04-hooks-feedback.git/static/js/main.1fcc2295.js.map",
+    "787.6b7abe35.chunk.js.map": "/vlad2021-pro/goit-react-hw-04-hooks-feedback.git/static/js/787.6b7abe35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.1fcc2295.js"
+  ]
+}
